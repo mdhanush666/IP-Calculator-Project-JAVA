@@ -18,10 +18,10 @@ This project is a Java-based IP Addressing Calculator designed to handle both cl
 ## Screenshots
 
 ### Network Ranges
-![Network Ranges](screenshots/network_ranges.png)
+![Network Ranges](imgs/network_ranges.png)
 
 ### Network Calculator Interface
-![Network Calculator](screenshots/network_calculator.png)
+![Network Calculator](imgs/network_calculator.png)
 
 ## Getting Started
 
