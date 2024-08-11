@@ -17,17 +17,25 @@ This project is a Java-based IP Addressing Calculator designed to handle both cl
 
 ## Screenshots
 
-### Network Ranges
-![Network Ranges](imgs/network_ranges.png)
-
 ### Network Calculator Interface
+![Network Calculator](imgs/network_ranges.png)
+
 ![Network Calculator](imgs/network_calculator.png)
+
+### Network Calculator Outputs
+
+![Network Calculator](imgs/result.png)
+
+### Network Ranges
+![Network Ranges](imgs/network_ranges1.png)
+
+![Network Ranges](imgs/network_ranges2.png)
 
 ## Getting Started
 
 ### Prerequisites
 
-- Java Development Kit (JDK) 8 or higher.
+- Java Development Kit (JDK) 11 or higher.
 - Apache NetBeans IDE (or any preferred Java IDE).
 
 ### Installation
