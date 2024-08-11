@@ -42,7 +42,7 @@ This project is a Java-based IP Addressing Calculator designed to handle both cl
 
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/yourusername/IP-Addressing-Calculator.git](https://github.com/mdhanush666/IP-Calculator-Project-JAVA.git)
+   git clone [https://github.com/mdhanush666/IP-Calculator-Project-JAVA.git]
    ```
 
 2. **Open the project**: Open the project in NetBeans IDE or any other Java-supported IDE.
